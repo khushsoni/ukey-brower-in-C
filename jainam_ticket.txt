@@ -1,0 +1,8 @@
+TOURISM TICKET
+===============
+
+Email ID: jainam
+Tour Code: AA
+Ticket Cost: Rs 40000.000000
+Number of tickets: 3
+Total Cost: Rs 120000.000000
